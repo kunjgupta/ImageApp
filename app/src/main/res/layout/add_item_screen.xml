@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/normal_margin">
+
+    <EditText
+        android:id="@+id/add_item_screen_title_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/add_item_screen_title_hint_text"
+        android:inputType="textCapSentences"
+        android:lines="1"
+        android:maxLines="1" />
+
+    <EditText
+        android:id="@+id/add_item_screen_description_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/add_item_screen_title_edit_text"
+        android:layout_marginTop="@dimen/small_margin"
+        android:hint="@string/add_item_screen_description_hint_text"
+        android:inputType="textCapSentences|textMultiLine"
+        android:lines="3"
+        android:maxLines="3" />
+
+    <Button
+        android:id="@+id/add_item_screen_select_image_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/add_item_screen_description_edit_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/small_margin"
+        android:text="@string/add_item_screen_select_image_button_text" />
+
+    <ImageView
+        android:id="@+id/add_item_screen_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/add_item_screen_save_button"
+        android:layout_below="@id/add_item_screen_select_image_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/small_margin"
+        android:layout_marginTop="@dimen/small_margin" />
+
+    <Button
+        android:id="@+id/add_item_screen_save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/normal_margin"
+        android:text="@string/add_item_screen_save_button_text" />
+</RelativeLayout>

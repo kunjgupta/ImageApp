@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+
+    <!--Common String-->
+    <string name="ok_string">OK</string>
+    <string name="loading_string">Loading&#8230;</string>
+
+    <!--Photo Gallery Screen-->
+    <string name="photo_gallery_screen_action_bar_title">Photo Gallery</string>
+
+    <!--Item Detail Screen-->
+    <string name="item_detail_screen_action_bar_title">Item Details</string>
+
+    <!--Network related-->
+    <string name="connection_alert_dialog_title">No Connection Available</string>
+    <string name="connection_alert_dialog_message">Please check your device settings to ensure you have a working internet connection.</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+
+    <!--Home Screen-->
+    <string name="home_screen_photo_gallery_button_text">Photo Gallery</string>
+    <string name="home_screen_word_count_button_text">Word Count</string>
+
+    <!--Permissions-->
+    <string name="custom_upload_read_storage_permission_dialog_msg_string">To upload pictures from gallery, %s needs your permission. In the next dialog, please click Allow to continue</string>
+    <string name="custom_setting_storage_permission_dialog_msg_string">To use this feature, please go to settings -> Apps -> %s -> Permissions and enable Storage permission</string>
+
+    <!--Add Item Screen-->
+    <string name="add_item_screen_action_bar_title">Add Item</string>
+    <string name="add_item_screen_save_button_text">Save</string>
+    <string name="add_item_screen_title_hint_text">Title</string>
+    <string name="add_item_screen_description_hint_text">Description</string>
+    <string name="add_item_screen_select_image_button_text">Select Image</string>
+    <string name="add_item_screen_title_text">Problem</string>
+    <string name="add_item_screen_title_error_dialog_message_text">Title is missing.</string>
+    <string name="add_item_screen_description_error_dialog_message_text">Description is missing.</string>
+    <string name="add_item_screen_image_error_dialog_message_text">Image is missing.</string>
+
+    <!--Web Content Screen-->
+    <string name="word_count_screen_action_bar_title">Word Count</string>
+    <string name="failed_to_fetch_web_content_string">Failed to fetch web content.</string>
+    <string name="web_word_count_edit_text_hint_text">Search</string>
+</resources>

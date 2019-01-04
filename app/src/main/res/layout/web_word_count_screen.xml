@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/web_word_count_search_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/web_word_count_edit_text_hint_text"
+        android:inputType="text"
+        android:lines="1"
+        android:paddingLeft="@dimen/small_margin"
+        android:paddingRight="@dimen/small_margin" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/web_word_count_search_edit_text"
+        android:layout_marginTop="@dimen/small_margin" />
+
+</RelativeLayout>

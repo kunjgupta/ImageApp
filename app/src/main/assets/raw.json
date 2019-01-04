@@ -1,0 +1,64 @@
+{
+"results": [
+    {
+        "title": "Rose",
+        "description": "A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?cs=srgb&dl=bloom-blossom-dew-56866.jpg&fm=jpg"
+    },
+    {
+        "title": "Lily",
+        "description": "The lily is a genus of flowering plant. There are many species of lilies, like trumpet lilies and tiger lilies.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/36770/flower-lily-lilium-candidum-madonna-lily.jpg?cs=srgb&dl=bloom-blooming-blossom-36770.jpg&fm=jpg"
+    },
+    {
+        "title": "Lotus",
+        "description": "The Lotus (Nelumbo nucifera) symbolizes purity, beauty, majesty, grace, fertility, wealth, richness, knowledge and serenity.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/127584/water-lily-pink-aquatic-plant-pink-water-lily-127584.jpeg?cs=srgb&dl=aquatic-plant-beautiful-bloom-127584.jpg&fm=jpg"
+    },
+    {
+        "title": "Jasmine",
+        "description": "The Jasmine is native to tropical and warm or temperate regions of the old world. The Jasmine flowers are white in most species, with some species being yellow.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/534075/pexels-photo-534075.jpeg?cs=srgb&dl=beautiful-bloom-blooming-534075.jpg&fm=jpg"
+    },
+    {
+        "title": "Lavender",
+        "description": "Lavandula (common name lavender) is a genus of 47 known species of flowering plants in the mint family, Lamiaceae.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/207518/pexels-photo-207518.jpeg?cs=srgb&dl=aroma-blooming-lavender-close-up-207518.jpg&fm=jpg"
+    },
+    {
+        "title": "Orchid",
+        "description": "The Orchidaceae are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant, commonly known as the orchid family.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/459150/pexels-photo-459150.jpeg?cs=srgb&dl=beautiful-bloom-blooming-459150.jpg&fm=jpg"
+    },
+    {
+        "title": "Pansy",
+        "description": "The garden pansy is a type of large-flowered hybrid plant cultivated as a garden flower.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/57394/pansy-flowers-plant-nature-57394.jpeg?cs=srgb&dl=bloom-blossom-close-up-57394.jpg&fm=jpg"
+    },
+    {
+        "title": "Sunflower",
+        "description": "The sunflower (Helianthus annuus) is a living annual plant in the family Asteraceae, with a large flower head (capitulum).",
+        "type":2,
+        "path":"https://images.pexels.com/photos/33044/sunflower-sun-summer-yellow.jpg?cs=srgb&dl=agriculture-environment-flower-33044.jpg&fm=jpg"
+    },
+    {
+        "title": "Tulip",
+        "description": "Tulipa (tulips) is a genus of spring-blooming perennial herbaceous bulbiferous geophytes, dying back after flowering to an underground storage bulb.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/36729/tulip-flower-bloom-pink.jpg?cs=srgb&dl=bloom-flower-pink-36729.jpg&fm=jpg"
+    },
+    {
+        "title": "Protea",
+        "description": "Protea cynaroides, the king protea, is a flowering plant. It is a distinctive member of Protea, having the largest flower head in the genus.",
+        "type":2,
+        "path":"https://images.pexels.com/photos/34702/protea-bloom-flower-color.jpg?cs=srgb&dl=bloom-blossom-close-up-34702.jpg&fm=jpg"
+    }
+]
+}
